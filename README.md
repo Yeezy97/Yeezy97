@@ -9,8 +9,13 @@
 
 ### Stack
 
-Flutter • Dart • Firebase • REST APIs  
-Git • CI/CD • GitHub Actions  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode" />
+</p>
 
 ---
 
@@ -29,21 +34,13 @@ C/C++ • FPGA/VHDL • Arduino
 
 ---
 
-### Tools
-
-Android Studio • VS Code • Git • Figma  
-
----
-
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yeezy97&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeezy97&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Yeezy97&show_icons=true&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeezy97&layout=compact&hide_border=true)
 
 ---
 
 ### Links
 
-GitHub: https://github.com/Yeezy97  
-Google Play: https://play.google.com/store/apps/dev?id=6364650575498736444  
-LinkedIn: (add your link)
+GitHub • Google Play • LinkedIn
