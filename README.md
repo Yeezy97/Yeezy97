@@ -23,23 +23,44 @@
 
 ### Software Skills
 
-State Management (GetX) • Clean Architecture • MVC/MVVM  
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean_Architecture-222222?style=flat" />
+  <img src="https://img.shields.io/badge/MVC-222222?style=flat" />
+  <img src="https://img.shields.io/badge/MVVM-222222?style=flat" />
+  <img src="https://img.shields.io/badge/GetX-222222?style=flat" />
+</p>
 
-REST API Integration • Laravel Backend Communication • Data Modeling  
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_APIs-222222?style=flat" />
+  <img src="https://img.shields.io/badge/Laravel-222222?style=flat" />
+  <img src="https://img.shields.io/badge/Firebase_Auth-222222?style=flat" />
+  <img src="https://img.shields.io/badge/FCM-222222?style=flat" />
+</p>
 
-Firebase (Authentication • Cloud Messaging • Notifications)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Maps-222222?style=flat" />
+  <img src="https://img.shields.io/badge/SQLite-222222?style=flat" />
+  <img src="https://img.shields.io/badge/Offline_Support-222222?style=flat" />
+</p>
 
-Google Maps Integration • Location-based Features  
+<p align="left">
+  <img src="https://img.shields.io/badge/Payments-222222?style=flat" />
+  <img src="https://img.shields.io/badge/In_App_Purchases-222222?style=flat" />
+  <img src="https://img.shields.io/badge/Booking_Systems-222222?style=flat" />
+</p>
 
-Offline-first Design (Local Storage • SQLite • Shared Preferences)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Testing-222222?style=flat" />
+  <img src="https://img.shields.io/badge/Responsive_UI-222222?style=flat" />
+  <img src="https://img.shields.io/badge/Figma_to_Flutter-222222?style=flat" />
+</p>
 
-Payment Flows • Shopping Cart Systems • In-App Purchases  
-
-Testing (Unit • Widget • Integration)  
-
-UI/UX Implementation from Figma • Responsive Design  
-
-Git Workflows • CI/CD (GitHub Actions) • Agile Collaboration  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-222222?style=flat" />
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=flat" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-222222?style=flat" />
+  <img src="https://img.shields.io/badge/Agile-222222?style=flat" />
+</p>
 
 ---
 
