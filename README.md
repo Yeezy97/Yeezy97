@@ -23,15 +23,15 @@
 
 ### Software Skills
 
-| Group | Skills |
+|  |  |
 |---|---|
 | **Architecture** | ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-222222?style=flat&labelColor=00000000) ![MVC](https://img.shields.io/badge/MVC-222222?style=flat&labelColor=00000000) ![MVVM](https://img.shields.io/badge/MVVM-222222?style=flat&labelColor=00000000) |
-| **State** | ![GetX](https://img.shields.io/badge/GetX-222222?style=flat&labelColor=00000000) |
+| **State** | ![GetX](https://img.shields.io/badge/GetX-222222?style=flat&labelColor=00000000) ![BLoC](https://img.shields.io/badge/BLoC-222222?style=flat&labelColor=00000000) |
 | **Backend** | ![REST APIs](https://img.shields.io/badge/REST%20APIs-222222?style=flat&labelColor=00000000) ![Laravel](https://img.shields.io/badge/Laravel-222222?style=flat&labelColor=00000000) |
 | **Firebase** | ![Auth](https://img.shields.io/badge/Auth-222222?style=flat&labelColor=00000000) ![FCM](https://img.shields.io/badge/FCM-222222?style=flat&labelColor=00000000) |
 | **Maps** | ![Google Maps](https://img.shields.io/badge/Google%20Maps-222222?style=flat&labelColor=00000000) |
 | **Offline** | ![SQLite](https://img.shields.io/badge/SQLite-222222?style=flat&labelColor=00000000) ![Local Storage](https://img.shields.io/badge/Local%20Storage-222222?style=flat&labelColor=00000000) |
-| **Features** | ![Payments](https://img.shields.io/badge/Payments-222222?style=flat&labelColor=00000000) ![In-App Purchases](https://img.shields.io/badge/In--App%20Purchases-222222?style=flat&labelColor=00000000) ![Booking](https://img.shields.io/badge/Booking-222222?style=flat&labelColor=00000000) |
+| **Features** | ![Payments](https://img.shields.io/badge/Payments-222222?style=flat&labelColor=00000000) ![In--App Purchases](https://img.shields.io/badge/In--App%20Purchases-222222?style=flat&labelColor=00000000) ![Booking](https://img.shields.io/badge/Booking-222222?style=flat&labelColor=00000000) |
 | **Testing** | ![Unit](https://img.shields.io/badge/Unit-222222?style=flat&labelColor=00000000) ![Widget](https://img.shields.io/badge/Widget-222222?style=flat&labelColor=00000000) ![Integration](https://img.shields.io/badge/Integration-222222?style=flat&labelColor=00000000) |
 | **UI/UX** | ![Figma](https://img.shields.io/badge/Figma-222222?style=flat&labelColor=00000000) ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-222222?style=flat&labelColor=00000000) |
 | **Workflow** | ![Git](https://img.shields.io/badge/Git-222222?style=flat&labelColor=00000000) ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=flat&labelColor=00000000) ![Agile](https://img.shields.io/badge/Agile-222222?style=flat&labelColor=00000000) |
@@ -40,7 +40,7 @@
 
 ### Embedded Systems Engineering
 
-| Group | Skills |
+|  |  |
 |---|---|
 | **Programming** | ![Arduino](https://img.shields.io/badge/Arduino-222222?style=flat&labelColor=00000000) ![C](https://img.shields.io/badge/C-222222?style=flat&labelColor=00000000) ![C++](https://img.shields.io/badge/C++-222222?style=flat&labelColor=00000000) ![Lua](https://img.shields.io/badge/Lua-222222?style=flat&labelColor=00000000) |
 | **Control** | ![Control Logic](https://img.shields.io/badge/Control%20Logic-222222?style=flat&labelColor=00000000) ![Sensor Systems](https://img.shields.io/badge/Sensor%20Systems-222222?style=flat&labelColor=00000000) |
