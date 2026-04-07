@@ -21,17 +21,42 @@
 
 ---
 
-### Skills
+### Software Skills
 
-Mobile Architecture (Clean Architecture • MVC • MVVM)  
-State Management • Testing (Unit • Widget • Integration)  
-Authentication • Push Notifications • Offline Support  
+State Management (GetX) • Clean Architecture • MVC/MVVM  
+
+REST API Integration • Laravel Backend Communication • Data Modeling  
+
+Firebase (Authentication • Cloud Messaging • Notifications)  
+
+Google Maps Integration • Location-based Features  
+
+Offline-first Design (Local Storage • SQLite • Shared Preferences)  
+
+Payment Flows • Shopping Cart Systems • In-App Purchases  
+
+Testing (Unit • Widget • Integration)  
+
+UI/UX Implementation from Figma • Responsive Design  
+
+Git Workflows • CI/CD (GitHub Actions) • Agile Collaboration  
 
 ---
 
-### Engineering
 
-Embedded Systems • Algorithms • Problem Solving  
+### Embedded Systems Engineering
+
+Control Systems & Logic Design • Sensor-based Decision Making  
+
+Embedded Programming (Arduino • Lua • C/C++)  
+
+Simulation & Modeling (CoppeliaSim • Algorithm Testing)  
+
+FPGA & Digital Design (VHDL • Hardware Description)  
+
+Algorithm Design (Pathfinding • Left Wall Follower • Optimization)  
+
+System-level Thinking (Hardware–Software Interaction)  
 
 ---
 
