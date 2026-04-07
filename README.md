@@ -23,44 +23,59 @@
 
 ### Software Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Clean_Architecture-222222?style=flat" />
-  <img src="https://img.shields.io/badge/MVC-222222?style=flat" />
-  <img src="https://img.shields.io/badge/MVVM-222222?style=flat" />
-  <img src="https://img.shields.io/badge/GetX-222222?style=flat" />
-</p>
+<div align="left">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_APIs-222222?style=flat" />
-  <img src="https://img.shields.io/badge/Laravel-222222?style=flat" />
-  <img src="https://img.shields.io/badge/Firebase_Auth-222222?style=flat" />
-  <img src="https://img.shields.io/badge/FCM-222222?style=flat" />
-</p>
+<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+  <b>Architecture</b><br>
+  Clean Architecture • MVC • MVVM
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Maps-222222?style=flat" />
-  <img src="https://img.shields.io/badge/SQLite-222222?style=flat" />
-  <img src="https://img.shields.io/badge/Offline_Support-222222?style=flat" />
-</p>
+<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+  <b>State</b><br>
+  GetX
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Payments-222222?style=flat" />
-  <img src="https://img.shields.io/badge/In_App_Purchases-222222?style=flat" />
-  <img src="https://img.shields.io/badge/Booking_Systems-222222?style=flat" />
-</p>
+<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+  <b>Backend</b><br>
+  REST APIs • Laravel
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Testing-222222?style=flat" />
-  <img src="https://img.shields.io/badge/Responsive_UI-222222?style=flat" />
-  <img src="https://img.shields.io/badge/Figma_to_Flutter-222222?style=flat" />
-</p>
+<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+  <b>Firebase</b><br>
+  Auth • FCM
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-222222?style=flat" />
-  <img src="https://img.shields.io/badge/CI/CD-222222?style=flat" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-222222?style=flat" />
-  <img src="https://img.shields.io/badge/Agile-222222?style=flat" />
-</p>
+<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+  <b>Maps</b><br>
+  Google Maps
+</div>
+
+<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+  <b>Offline</b><br>
+  SQLite • Local Storage
+</div>
+
+<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+  <b>App Features</b><br>
+  Payments • In-App Purchases • Booking
+</div>
+
+<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+  <b>Testing</b><br>
+  Unit • Widget • Integration
+</div>
+
+<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+  <b>UI/UX</b><br>
+  Figma • Responsive Design
+</div>
+
+<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+  <b>Workflow</b><br>
+  Git • CI/CD • Agile
+</div>
+
+</div>
 
 ---
 
