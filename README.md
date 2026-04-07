@@ -23,7 +23,8 @@
 
 ### Software Skills
 
-|  |  |
+
+|---|---|
 | **Architecture** | ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-222222?style=flat&labelColor=00000000) ![MVC](https://img.shields.io/badge/MVC-222222?style=flat&labelColor=00000000) ![MVVM](https://img.shields.io/badge/MVVM-222222?style=flat&labelColor=00000000) |
 | **State** | ![GetX](https://img.shields.io/badge/GetX-222222?style=flat&labelColor=00000000) ![BLoC](https://img.shields.io/badge/BLoC-222222?style=flat&labelColor=00000000) |
 | **Backend** | ![REST APIs](https://img.shields.io/badge/REST%20APIs-222222?style=flat&labelColor=00000000) ![Laravel](https://img.shields.io/badge/Laravel-222222?style=flat&labelColor=00000000) |
