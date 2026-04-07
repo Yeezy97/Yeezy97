@@ -10,31 +10,17 @@
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" /><br>Flutter
+  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=dart" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart" /><br>Dart
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase" /><br>Firebase
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" /><br>Git
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" /><br>GitHub
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio" /><br>Android Studio
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code
+  Flutter • Dart • Firebase • Git • GitHub • Android Studio • VS Code
 </p>
 
 ---
