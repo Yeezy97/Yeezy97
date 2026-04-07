@@ -23,101 +23,42 @@
 
 ### Software Skills
 
-### Skills
-
-<p>
-
-<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
-  <b>Architecture</b><br>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Clean Architecture</span>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">MVC</span>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">MVVM</span>
-</span>
-
-<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
-  <b>State</b><br>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">GetX</span>
-</span>
-
-<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
-  <b>Backend</b><br>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">REST APIs</span>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Laravel</span>
-</span>
-
-<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
-  <b>Firebase</b><br>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Auth</span>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">FCM</span>
-</span>
-
-<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
-  <b>Maps</b><br>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Google Maps</span>
-</span>
-
-<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
-  <b>Offline</b><br>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">SQLite</span>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Local Storage</span>
-</span>
-
-<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
-  <b>Features</b><br>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Payments</span>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">In-App Purchases</span>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Booking</span>
-</span>
-
-<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
-  <b>Testing</b><br>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Unit</span>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Widget</span>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Integration</span>
-</span>
-
-<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
-  <b>UI/UX</b><br>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Figma</span>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Responsive Design</span>
-</span>
-
-<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
-  <b>Workflow</b><br>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Git</span>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">CI/CD</span>
-  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Agile</span>
-</span>
-
-</p>
+| Group | Skills |
+|---|---|
+| **Architecture** | ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-222222?style=flat&labelColor=00000000) ![MVC](https://img.shields.io/badge/MVC-222222?style=flat&labelColor=00000000) ![MVVM](https://img.shields.io/badge/MVVM-222222?style=flat&labelColor=00000000) |
+| **State** | ![GetX](https://img.shields.io/badge/GetX-222222?style=flat&labelColor=00000000) |
+| **Backend** | ![REST APIs](https://img.shields.io/badge/REST%20APIs-222222?style=flat&labelColor=00000000) ![Laravel](https://img.shields.io/badge/Laravel-222222?style=flat&labelColor=00000000) |
+| **Firebase** | ![Auth](https://img.shields.io/badge/Auth-222222?style=flat&labelColor=00000000) ![FCM](https://img.shields.io/badge/FCM-222222?style=flat&labelColor=00000000) |
+| **Maps** | ![Google Maps](https://img.shields.io/badge/Google%20Maps-222222?style=flat&labelColor=00000000) |
+| **Offline** | ![SQLite](https://img.shields.io/badge/SQLite-222222?style=flat&labelColor=00000000) ![Local Storage](https://img.shields.io/badge/Local%20Storage-222222?style=flat&labelColor=00000000) |
+| **Features** | ![Payments](https://img.shields.io/badge/Payments-222222?style=flat&labelColor=00000000) ![In-App Purchases](https://img.shields.io/badge/In--App%20Purchases-222222?style=flat&labelColor=00000000) ![Booking](https://img.shields.io/badge/Booking-222222?style=flat&labelColor=00000000) |
+| **Testing** | ![Unit](https://img.shields.io/badge/Unit-222222?style=flat&labelColor=00000000) ![Widget](https://img.shields.io/badge/Widget-222222?style=flat&labelColor=00000000) ![Integration](https://img.shields.io/badge/Integration-222222?style=flat&labelColor=00000000) |
+| **UI/UX** | ![Figma](https://img.shields.io/badge/Figma-222222?style=flat&labelColor=00000000) ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-222222?style=flat&labelColor=00000000) |
+| **Workflow** | ![Git](https://img.shields.io/badge/Git-222222?style=flat&labelColor=00000000) ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=flat&labelColor=00000000) ![Agile](https://img.shields.io/badge/Agile-222222?style=flat&labelColor=00000000) |
 
 ---
 
-
 ### Embedded Systems Engineering
 
-Control Systems & Logic Design • Sensor-based Decision Making  
-
-Embedded Programming (Arduino • Lua • C/C++)  
-
-Simulation & Modeling (CoppeliaSim • Algorithm Testing)  
-
-FPGA & Digital Design (VHDL • Hardware Description)  
-
-Algorithm Design (Pathfinding • Left Wall Follower • Optimization)  
-
-System-level Thinking (Hardware–Software Interaction)  
+| Group | Skills |
+|---|---|
+| **Programming** | ![Arduino](https://img.shields.io/badge/Arduino-222222?style=flat&labelColor=00000000) ![C](https://img.shields.io/badge/C-222222?style=flat&labelColor=00000000) ![C++](https://img.shields.io/badge/C++-222222?style=flat&labelColor=00000000) ![Lua](https://img.shields.io/badge/Lua-222222?style=flat&labelColor=00000000) |
+| **Control** | ![Control Logic](https://img.shields.io/badge/Control%20Logic-222222?style=flat&labelColor=00000000) ![Sensor Systems](https://img.shields.io/badge/Sensor%20Systems-222222?style=flat&labelColor=00000000) |
+| **Simulation** | ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-222222?style=flat&labelColor=00000000) ![Modeling](https://img.shields.io/badge/Modeling-222222?style=flat&labelColor=00000000) |
+| **Hardware** | ![FPGA](https://img.shields.io/badge/FPGA-222222?style=flat&labelColor=00000000) ![VHDL](https://img.shields.io/badge/VHDL-222222?style=flat&labelColor=00000000) |
+| **Algorithms** | ![Pathfinding](https://img.shields.io/badge/Pathfinding-222222?style=flat&labelColor=00000000) ![Optimization](https://img.shields.io/badge/Optimization-222222?style=flat&labelColor=00000000) |
+| **Systems** | ![Hardware-Software Integration](https://img.shields.io/badge/Hardware--Software%20Integration-222222?style=flat&labelColor=00000000) |
 
 ---
 
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yeezy97&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeezy97&show_icons=true&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeezy97&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeezy97&layout=compact&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
