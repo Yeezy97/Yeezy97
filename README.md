@@ -1,74 +1,49 @@
-<h1 align="center">Hi, I'm Alaeddine Rahmani 👋</h1>
-<p align="center">
-  Flutter Developer • Building clean, fast, cross-platform apps
-</p>
+<h1 align="center">Alaeddine Rahmani</h1>
+<p align="center">Flutter Developer</p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
+  Building clean, performant mobile apps with system-level thinking
 </p>
 
 ---
 
-### About Me
+### Stack
 
-- 📱 Flutter developer focused on elegant, responsive mobile apps
-- 🎯 Interested in clean architecture, smooth UI, and performance
-- 🌱 Currently exploring advanced Flutter animations and backend integration
-- ✨ I like building products that feel simple and polished
+Flutter • Dart • Firebase • REST APIs  
+Git • CI/CD • GitHub Actions  
 
 ---
 
-### Tech Stack
+### Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github" />
-</p>
-
----
-
-### What I Work With
-
-- Flutter
-- Dart
-- Firebase
-- REST APIs
-- State Management
-- UI/UX-focused mobile development
+Mobile Architecture (Clean Architecture • MVC • MVVM)  
+State Management • Testing (Unit • Widget • Integration)  
+Authentication • Push Notifications • Offline Support  
 
 ---
 
-### GitHub Stats
+### Engineering
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&title_color=4C8BF5&icon_color=4C8BF5&text_color=666&bg_color=ffffff" />
-</p>
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=4C8BF5&text_color=666&bg_color=ffffff" />
-</p>
+Embedded Systems • Algorithms • Problem Solving  
+C/C++ • FPGA/VHDL • Arduino  
 
 ---
 
-### Featured Projects
+### Tools
 
-- **Project One** — Short one-line description of your Flutter app
-- **Project Two** — Another simple description
-- **Project Three** — Something clean and useful you built
+Android Studio • VS Code • Git • Figma  
 
 ---
 
-### Connect
+### Stats
 
-<p>
-  <a href="https://www.linkedin.com/in/yourusername/">LinkedIn</a> •
-  <a href="https://github.com/yourusername">GitHub</a> •
-  <a href="mailto:youremail@example.com">Email</a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yeezy97&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeezy97&layout=compact&hide_border=true)
+
+---
+
+### Links
+
+GitHub: https://github.com/Yeezy97  
+Google Play: https://play.google.com/store/apps/dev?id=6364650575498736444  
+LinkedIn: (add your link)
