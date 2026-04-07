@@ -23,59 +23,73 @@
 
 ### Software Skills
 
-<div align="left">
+### Skills
 
-<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+<p>
+
+<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
   <b>Architecture</b><br>
-  Clean Architecture • MVC • MVVM
-</div>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Clean Architecture</span>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">MVC</span>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">MVVM</span>
+</span>
 
-<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
   <b>State</b><br>
-  GetX
-</div>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">GetX</span>
+</span>
 
-<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
   <b>Backend</b><br>
-  REST APIs • Laravel
-</div>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">REST APIs</span>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Laravel</span>
+</span>
 
-<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
   <b>Firebase</b><br>
-  Auth • FCM
-</div>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Auth</span>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">FCM</span>
+</span>
 
-<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
   <b>Maps</b><br>
-  Google Maps
-</div>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Google Maps</span>
+</span>
 
-<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
   <b>Offline</b><br>
-  SQLite • Local Storage
-</div>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">SQLite</span>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Local Storage</span>
+</span>
 
-<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
-  <b>App Features</b><br>
-  Payments • In-App Purchases • Booking
-</div>
+<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
+  <b>Features</b><br>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Payments</span>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">In-App Purchases</span>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Booking</span>
+</span>
 
-<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
   <b>Testing</b><br>
-  Unit • Widget • Integration
-</div>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Unit</span>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Widget</span>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Integration</span>
+</span>
 
-<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
   <b>UI/UX</b><br>
-  Figma • Responsive Design
-</div>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Figma</span>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Responsive Design</span>
+</span>
 
-<div style="display:inline-block; border:1px solid #ccc; border-radius:8px; padding:8px 12px; margin:6px;">
+<span style="border:1px solid #30363d; border-radius:10px; padding:6px 10px; margin:6px; display:inline-block;">
   <b>Workflow</b><br>
-  Git • CI/CD • Agile
-</div>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Git</span>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">CI/CD</span>
+  <span style="border:1px solid #30363d; border-radius:6px; padding:2px 6px; margin:2px; display:inline-block;">Agile</span>
+</span>
 
-</div>
+</p>
 
 ---
 
