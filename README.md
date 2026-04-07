@@ -9,12 +9,32 @@
 
 ### Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" /><br>Flutter
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart" /><br>Dart
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase" /><br>Firebase
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" /><br>Git
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" /><br>GitHub
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" /><br>Android Studio
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code
 </p>
 
 ---
@@ -36,11 +56,20 @@ C/C++ • FPGA/VHDL • Arduino
 
 ### Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Yeezy97&show_icons=true&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeezy97&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeezy97&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeezy97&layout=compact&hide_border=true" />
+</p>
 
 ---
 
 ### Links
 
-GitHub • Google Play • LinkedIn
+<p align="center">
+  <a href="https://github.com/Yeezy97">GitHub</a> •
+  <a href="https://play.google.com/store/apps/dev?id=6364650575498736444&hl=en_GB">Google Play</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
