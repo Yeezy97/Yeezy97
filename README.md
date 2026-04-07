@@ -27,32 +27,32 @@
   <img src="https://img.shields.io/badge/Clean%20Architecture-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/MVC-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/MVVM-1f1f1f?style=flat&labelColor=00000000" />
-  •
+  - 
   <img src="https://img.shields.io/badge/GetX-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/BLoC-1f1f1f?style=flat&labelColor=00000000" />
-  •
+  - 
   <img src="https://img.shields.io/badge/REST%20APIs-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/Laravel-1f1f1f?style=flat&labelColor=00000000" />
-  •
+  - 
   <img src="https://img.shields.io/badge/Firebase%20Auth-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/FCM-1f1f1f?style=flat&labelColor=00000000" />
-  •
+  - 
   <img src="https://img.shields.io/badge/Google%20Maps-1f1f1f?style=flat&labelColor=00000000" />
-  •
+  - 
   <img src="https://img.shields.io/badge/SQLite-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/Local%20Storage-1f1f1f?style=flat&labelColor=00000000" />
-  •
+  - 
   <img src="https://img.shields.io/badge/Payments-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/In--App%20Purchases-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/Booking-1f1f1f?style=flat&labelColor=00000000" />
-  •
+  - 
   <img src="https://img.shields.io/badge/Unit%20Testing-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/Widget%20Testing-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/Integration%20Testing-1f1f1f?style=flat&labelColor=00000000" />
-  •
+  - 
   <img src="https://img.shields.io/badge/Figma-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/Responsive%20Design-1f1f1f?style=flat&labelColor=00000000" />
-  •
+  - 
   <img src="https://img.shields.io/badge/Git-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/CI%2FCD-1f1f1f?style=flat&labelColor=00000000" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-1f1f1f?style=flat&labelColor=00000000" />
