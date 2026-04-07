@@ -10,17 +10,13 @@
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" />
-  <img src="https://skillicons.dev/icons?i=dart" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,js,python,php,cpp,c,figma" />
 </p>
 
 <p align="center">
-  Flutter • Dart • Firebase • Git • GitHub • Android Studio • VS Code
+  Flutter • Dart • Firebase • Git • GitHub • Android Studio • VS Code  
+  JavaScript • Python • PHP • C++ • C • Figma  
+  SQL • Arduino • VHDL • FPGA • Draw.io
 </p>
 
 ---
@@ -36,7 +32,6 @@ Authentication • Push Notifications • Offline Support
 ### Engineering
 
 Embedded Systems • Algorithms • Problem Solving  
-C/C++ • FPGA/VHDL • Arduino  
 
 ---
 
