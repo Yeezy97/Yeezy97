@@ -23,46 +23,26 @@
 
 ### Software Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/MVC-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/MVVM-222222?style=flat&labelColor=00000000" />
-  •
-  <img src="https://img.shields.io/badge/GetX-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/BLoC-222222?style=flat&labelColor=00000000" />
-  •
-  <img src="https://img.shields.io/badge/REST%20APIs-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/Laravel-222222?style=flat&labelColor=00000000" />
+<p align="left" style="white-space: nowrap;">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-1f1f1f?style=flat&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/MVC-1f1f1f?style=flat&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/MVVM-1f1f1f?style=flat&labelColor=00000000" />
+  <span style="vertical-align: middle; margin: 0 6px;">•</span>
+  <img src="https://img.shields.io/badge/GetX-1f1f1f?style=flat&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/BLoC-1f1f1f?style=flat&labelColor=00000000" />
+  <span style="vertical-align: middle; margin: 0 6px;">•</span>
+  <img src="https://img.shields.io/badge/REST%20APIs-1f1f1f?style=flat&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/Laravel-1f1f1f?style=flat&labelColor=00000000" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase%20Auth-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/FCM-222222?style=flat&labelColor=00000000" />
-  •
-  <img src="https://img.shields.io/badge/Google%20Maps-222222?style=flat&labelColor=00000000" />
-  •
-  <img src="https://img.shields.io/badge/SQLite-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/Local%20Storage-222222?style=flat&labelColor=00000000" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Payments-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/In--App%20Purchases-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/Booking-222222?style=flat&labelColor=00000000" />
-  •
-  <img src="https://img.shields.io/badge/Unit%20Testing-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/Widget%20Testing-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/Integration%20Testing-222222?style=flat&labelColor=00000000" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-222222?style=flat&labelColor=00000000" />
-  •
-  <img src="https://img.shields.io/badge/Git-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-222222?style=flat&labelColor=00000000" />
-  <img src="https://img.shields.io/badge/Agile-222222?style=flat&labelColor=00000000" />
+<p align="left" style="white-space: nowrap;">
+  <img src="https://img.shields.io/badge/Firebase%20Auth-1f1f1f?style=flat&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/FCM-1f1f1f?style=flat&labelColor=00000000" />
+  <span style="vertical-align: middle; margin: 0 6px;">•</span>
+  <img src="https://img.shields.io/badge/Google%20Maps-1f1f1f?style=flat&labelColor=00000000" />
+  <span style="vertical-align: middle; margin: 0 6px;">•</span>
+  <img src="https://img.shields.io/badge/SQLite-1f1f1f?style=flat&labelColor=00000000" />
+  <img src="https://img.shields.io/badge/Local%20Storage-1f1f1f?style=flat&labelColor=00000000" />
 </p>
 
 ---
